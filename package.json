@@ -1,0 +1,15 @@
+{
+"name" : "docker",
+"version" : "1.0.0",
+"description" : " Μια απλή εφαρμογή",
+ "main":"index.js",
+  "script" : {
+ "start": "node index.js"
+    
+  },
+  "depedencies":{
+"express": "^4.19.2"
+
+    
+  }
+}
